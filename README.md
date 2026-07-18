@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Loan-Default Predictor Project in the domain of AI/ML<br>🌱 I’m currently working as a Teaching Assistant (FrontEnd Web Technology)Find my works here!<br>⚡ Fun fact??!
+🔭 I’m currently working on Loan-Default Predictor Project in the domain of AI/ML<br>🌱 I’m currently working as a Teaching Assistant (FrontEnd Web Technology)Find my works here!<br>⚡ Fun fact??!<br>Strong believer of: PERSEVERNCE>>>Talent
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=ShrushtiGNanavati07&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ShrushtiGNanavati07&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShrushtiGNanavati07&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShrushtiGNanavati07&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
